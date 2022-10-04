@@ -14,9 +14,3 @@ public class no_1156_odd_even {
         }
     }
 }
-
-/*
-int num = 5;
-if(num == 5){
- system.out.println("odd");
- */
